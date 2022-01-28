@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Binayak Mondal
 #### I am a student at B.D.M.I
 
-![](https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx)
+![](https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611a1aeb98ead16140fce4219d82fec63c425db20e1&rid=giphy.gif&ct=s)
 
 
 
