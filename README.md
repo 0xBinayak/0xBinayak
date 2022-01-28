@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Binayak Mondal
 #### I am a student at B.D.M.I
 ![](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
-
+![](https://media1.giphy.com/media/SS8CV2rQdlYNLtBCiF/200.webp?cid=ecf05e47mbokuoix38wu9lh9x2ha4r0qxqjdwvxw4z5eqjq2&rid=200.webp&ct=g)
 
 
 
