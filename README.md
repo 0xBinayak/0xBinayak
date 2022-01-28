@@ -2,7 +2,9 @@
 
 ### Hi there 👋, my name is Binayak Mondal
 #### I am a student
-![I am a student at B.D.M.I ](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+![I am a student at B.D.M.I ]
+
+(https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
 
 
