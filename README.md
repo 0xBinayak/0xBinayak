@@ -2,9 +2,8 @@
 
 ### Hi there 👋, my name is Binayak Mondal
 #### I am a student at B.D.M.I
-<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
-![](https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.webp?cid=ecf05e47mbokuoix38wu9lh9x2ha4r0qxqjdwvxw4z5eqjq2&rid=200w.webp&ct=g)
-![](https://media1.giphy.com/media/SS8CV2rQdlYNLtBCiF/200.webp?cid=ecf05e47mbokuoix38wu9lh9x2ha4r0qxqjdwvxw4z5eqjq2&rid=200.webp&ct=g)
+
+![](https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx)
 
 
 
