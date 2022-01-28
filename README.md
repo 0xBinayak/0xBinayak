@@ -7,7 +7,7 @@
 Student at B.D.M.I
 
 
-Skills: Pytho /JAVA/ /C++ / Kotlin 
+Skills: Python /JAVA/ /C++ / Kotlin 
 
 - 🌱 I’m currently learning Python, JAVA , C++ , Kotlin 
 - ⚡ Fun fact: Python ships in various flavors:  
