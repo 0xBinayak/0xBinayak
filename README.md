@@ -6,6 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm learning React and Solidity
 
 
+<a href="https://www.github.com/binayak9932" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/binayak99323?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
+<a href="https://twitter.com/mondalbinayak91" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/mondalbinayak91?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
+/></a>
+
 
 
 <h3 align="left">Connect with me:</h3>
