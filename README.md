@@ -1,6 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Binayak Mondal
 
 
+
+I am a Python Developer and  AI ML enthusiast
+Learning Web Development
+
+
+
+
 * 🌍  Kolkata,West bengal
 * ✉️ [mondalbinayak9932@gmail.com](mailto:mondalbinayak9932@gmail.com)
 * 🧠 learning React and Solidity
