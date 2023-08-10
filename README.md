@@ -40,3 +40,35 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="36" height=36"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="36" height="36"/> </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/binayak9932" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.instagram.com/eauinaya/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/binayak-mondal-375363261/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/mondalbinayak91" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/binayak9932"><img src="https://github-readme-stats.vercel.app/api?username=binayak9932&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="binayak9932's GitHub stats" /></a>
+
+[![binayak9932's GitHub | Stats](https://stats.quine.sh/binayak9932/github?theme=dark)](https://quine.sh)
+
+<a href="http://www.github.com/binayak9932"><img src="https://github-readme-streak-stats.herokuapp.com/?user=binayak9932&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/binayak9932" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayak9932&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
