@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Binayak Mondal
 
 
-* 🌍  I'm based in Kolkata,West bengal
-* ✉️  You can contact me at [mondalbinayak9932@gmail.com](mailto:mondalbinayak9932@gmail.com)
-* 🧠  I'm learning React and Solidity
+* 🌍  Kolkata,West bengal
+* ✉️ [mondalbinayak9932@gmail.com](mailto:mondalbinayak9932@gmail.com)
+* 🧠 learning React and Solidity
 
 
 <a href="https://github.com/binayak9932" target="_blank" rel="noreferrer"><img
