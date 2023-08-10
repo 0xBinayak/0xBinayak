@@ -1,9 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Binayak Mondal
+=======================================================================================================================================
 
 
 
 I am a Python Developer and an AI,ML enthusiast
 Learning Web Development
+-------------------------
 
 <img
 src="https://wallpapers.com/images/hd/cyberpunk-aesthetic-jb1poa4szk9bmbgi.jpg" />
