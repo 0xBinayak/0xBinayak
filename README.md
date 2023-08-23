@@ -93,6 +93,7 @@ src="https://img.shields.io/twitter/follow/mondalbinayak91?logo=twitter&style=fo
 
 
 <b>My GitHub Stats</b>
+<a href="http://www.github.com/binayak9932"><img src="https://github-readme-stats.vercel.app/api?username=binayak9932&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="binayak9932's GitHub stats" /></a>
 
 
 
