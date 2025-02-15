@@ -14,7 +14,6 @@ src="https://wallpapers.com/images/hd/cyberpunk-aesthetic-jb1poa4szk9bmbgi.jpg" 
 
 * 🌍  Kolkata,West bengal
 * ✉️ [mondalbinayak9932@gmail.com](mailto:mondalbinayak9932@gmail.com)
-* 🧠 learning React and Solidity
 
 
 <a href="https://github.com/binayak9932" target="_blank" rel="noreferrer"><img
