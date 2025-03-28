@@ -2,7 +2,7 @@
 Software Engineer in progress | AIML Enthusiast | Developer  
 Currently diving into backend development and systems engineering.
 
-**Tech Skills**  
+*Tech Skills*
 - **Programming & Development:** Python, JavaScript, PHP, Rust, Cairo  
 - **Machine Learning & Data Science:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Hugging Face, FastAPI  
 - **Embedded & Systems Development:** Arduino, Raspberry Pi, ESP32, MicroPython, Linux, Docker  
