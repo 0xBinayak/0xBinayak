@@ -1,5 +1,5 @@
 
-###👋 Hey there! I'm Binayak  
+### Hey there! I'm Binayak  
 Software Engineer in progress | AIML Enthusiast | Developer  
 
 Currently exploring Machine Learning ,backend development and systems engineering. Always eager to learn, build, and innovate.  
