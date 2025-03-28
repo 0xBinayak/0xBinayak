@@ -1,9 +1,8 @@
+
 ###👋 Hey there! I'm Binayak  
 Software Engineer in progress | AIML Enthusiast | Developer  
 
 Currently exploring Machine Learning ,backend development and systems engineering. Always eager to learn, build, and innovate.  
-
----
 
 #### Tech Skills  
 **Programming & Development:** Python, JavaScript, PHP, Rust, Cairo  
@@ -11,7 +10,6 @@ Currently exploring Machine Learning ,backend development and systems engineerin
 **Embedded & Systems Development:** Arduino, Raspberry Pi, ESP32, MicroPython, Linux, Docker  
 **Web & Databases:** Flask, FastAPI, Django, SQL, PostgreSQL, MongoDB, HTML, CSS, Tailwind  
 
----
 
 #### Connect with me  
 [![Twitter: mondalbinayak91](https://img.shields.io/twitter/follow/mondalbinayak91?style=social&color=black)](https://twitter.com/mondalbinayak91)  
