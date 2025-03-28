@@ -4,14 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 I am a Python Developer and an AI,ML enthusiast
-
-<img
-src="https://wallpapers.com/images/hd/cyberpunk-aesthetic-jb1poa4szk9bmbgi.jpg" />
-
-
-
-
-
 * 🌍  Kolkata,West bengal
 * ✉️ [mondalbinayak9932@gmail.com](mailto:mondalbinayak9932@gmail.com)
 
