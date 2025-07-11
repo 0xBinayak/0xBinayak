@@ -12,4 +12,4 @@ Currently exploring **Machine Learning**, **Backend Development**, and **Systems
 ### 🔗 Connect with Me  
 [![Twitter: mondalbinayak91](https://img.shields.io/twitter/follow/mondalbinayak91?style=social&color=black)](https://twitter.com/mondalbinayak91)  
 [![GitHub: binayak9932](https://img.shields.io/github/followers/binayak9932?label=follow&style=social&color=black)](https://github.com/binayak9932)  
-![Profile Views](https://komarev.com/ghpvc/?username=binayak9932&color=blueviolet)  
+![Profile Views](https://komarev.com/ghpvc/?username=0xBinayak&color=blueviolet)  
