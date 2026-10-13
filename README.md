@@ -12,4 +12,4 @@ Currently exploring **Machine Learning**, **Backend Development**, and **Systems
 ### 🔗 Connect with Me  
 [![Twitter: 0xBinayak](https://img.shields.io/twitter/follow/0xBinayak?style=social&color=black)](https://twitter.com/0xBinayak)  
 [![GitHub: 0xBinayak](https://img.shields.io/github/followers/0xBinayak?label=follow&style=social&color=black)](https://github.com/0xBinayak)  
-![Profile Views](https://komarev.com/ghpvc/?username=0xBinayak&color=blueviolet)  
+
